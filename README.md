@@ -2,7 +2,7 @@
 
 **`Full stack developer`**
 
-I'm an full-stack developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I've always been fascinated by programming and I love solving problems,
+I'm a full-stack developer who loves bringing ideas to life through code. I handle everything from planning and design to solving real-world problems with practical solutions. Programming has always fascinated me, and I enjoy the challenge of figuring things out and making things work.
 
 - 🔭 I’m currently working on Bug Buster
 - 🌱 I’m currently learning Next.js and Node.js
@@ -46,6 +46,6 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
 #
 
  <summary><h3>👨‍💻 Pablo's Coding Journey</h3></summary>
-<p>I began programming for fun, messing with game development and building fun websites. I've always had a way with computers as a kid, liked to learn how things worked, but just never had put the time to actually dive deep in it.</p>
-<p>That changed in 2024, where I started to get serious with programming, joined University, and started studying on my own, and had a lot fun doing so 😄.</p>
-<p>Currently i'm building a range of projects, exploring different technologies whithin the web, always hungry for knowledge and with the spirit of self-teaching.</p>
+<p>I got into programming just for fun—tinkering with game development and building random websites. As a kid, I was always curious about how things worked, but I never really took the time to dive deep into it.</p>
+<p>That changed in 2024 when I decided to get serious. I started university, began studying on my own, and found myself really enjoying the process 😄.</p>
+<p>Now, I’m building all kinds of projects, exploring different web technologies, and constantly learning. I love the challenge of figuring things out and pushing myself to grow as a developer.</p>

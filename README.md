@@ -4,7 +4,7 @@
 
 I'm a full-stack developer who loves bringing ideas to life through code. I handle everything from planning and design to solving real-world problems with practical solutions. Programming has always fascinated me, and I enjoy the challenge of figuring things out and making things work.
 
-- 🔭 I’m currently working on Bug Buster
+- 🔭 I’m currently working on World Wise
 - 🌱 I’m currently learning Next.js and Node.js
 - ⚡ Fun fact: I use Fedora BTW
 

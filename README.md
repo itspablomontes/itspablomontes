@@ -32,9 +32,3 @@ I'm a full-stack developer who loves bringing ideas to life through code. I hand
 </div>
 
 
-#
-
- <summary><h3>👨‍💻 Pablo's Coding Journey</h3></summary>
-<p>I got into programming just for fun—tinkering with game development and building random websites. As a kid, I was always curious about how things worked, but I never really took the time to dive deep into it.</p>
-<p>That changed in 2024 when I decided to get serious. I started university, began studying on my own, and found myself really enjoying the process 😄.</p>
-<p>Now, I’m building all kinds of projects, exploring different web technologies, and constantly learning. I love the challenge of figuring things out and pushing myself to grow as a developer.</p>

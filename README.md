@@ -6,10 +6,19 @@ I'm a Full-Stack Developer who loves bringing ideas to life through code. I hand
 
 #
 
-### 🧰 Languages and Tools
+# 🧰 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,nodejs,express,mongodb,postgres,docker,git)](https://skillicons.dev)
+## Front-End
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,redux)](https://skillicons.dev)
+
+## Back-End
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma)](https://skillicons.dev)
+
+## Tools
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
 <br />
 
 #

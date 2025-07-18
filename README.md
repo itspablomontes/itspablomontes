@@ -14,7 +14,7 @@ I'm a Full-Stack Developer who loves bringing ideas to life through code. I hand
 
 ## Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,express,mongodb,postgres,prisma)](https://skillicons.dev)
 
 ## Tools
 

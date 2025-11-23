@@ -10,15 +10,15 @@ I'm a Full-Stack Developer who loves bringing ideas to life through code. I hand
 
 ## Front-End
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,react,next,tauri)](https://skillicons.dev)
 
 ## Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,express,mongodb,postgres,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,nodejs,mongodb,postgres)](https://skillicons.dev)
 
-## Tools
+## Tools & Infra
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,aws,jenkins,kubernetes)](https://skillicons.dev)
 <br />
 
 #

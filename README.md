@@ -1,17 +1,16 @@
-![Synthwave Banner](./assets/banner.svg)
+# Pablo Montes
 
-<br>
+**AI Engineer**
+
+building production AI agents  
+making LLMs reliable at scale
 
 ## ▸ Focus Areas
 
 reasoning chains • RAG pipelines • evals • observability • guardrails  
 feedback loops • structured outputs • tool calling • Text-to-SQL
 
-<br>
-
-![Divider](./assets/divider.svg)
-
-<br>
+---
 
 ## ▸ Technologies & Topics
 

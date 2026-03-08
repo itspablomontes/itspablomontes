@@ -1,36 +1,34 @@
-# 🧙🏼 Pablo Montes
+![Synthwave Banner](./assets/banner.svg)
 
-**`Full-Stack Developer`**
+<br>
 
-I'm a Full-Stack Developer who loves bringing ideas to life through code. I handle everything from planning and design to solving real-world problems with practical solutions. Programming has always fascinated me, and I enjoy the challenge of figuring things out and making things work.
+## ▸ Focus Areas
 
-#
+reasoning chains • RAG pipelines • evals • observability • guardrails  
+feedback loops • structured outputs • tool calling • Text-to-SQL
 
-# 🧰 My Skills
+<br>
 
-## Front-End
+![Divider](./assets/divider.svg)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,react,next,tauri)](https://skillicons.dev)
+<br>
 
-## Back-End
+## ▸ Technologies & Topics
 
-[![My Skills](https://skillicons.dev/icons?i=rust,go,nodejs,mongodb,postgres)](https://skillicons.dev)
+### AI / LLM
 
-## Tools & Infra
+LangChain • **LangGraph** • RAG • GraphRAG • Prompt Engineering • Context Engineering  
+Tool Calling • Structured Outputs • LLM Evals • **Langfuse** • Observability • Feedback Loops  
+Hugging Face • PyTorch • Agentic Systems • Text-to-SQL • LLMOps
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,aws,jenkins,kubernetes)](https://skillicons.dev)
-<br />
+### Backend
 
-#
+FastAPI • NestJS • Node.js • Golang • Prisma • PostgreSQL • MongoDB • TypeScript
 
-### 📊 Stats
+### Frontend
 
-<div align="center">
-  <a href="https://github.com/itspablomontes">
-    <img alt="Pablo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itspablomontes&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <br />
-  <a href="http://www.github.com/itspablomontes">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspablomontes&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+React • Next.js • Tailwind
+
+### Infra
+
+Docker • AWS • GitHub Actions • Linux • Git
